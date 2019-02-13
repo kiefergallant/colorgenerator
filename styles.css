@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+.color1{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+}
+
+.color2{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+}
+.color3{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+}
+.color4{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
